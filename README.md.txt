@@ -163,6 +163,16 @@ This strengthened statistical thinking required for machine learning and predict
 
 ---
 
+## 📍 Day 16 – Statistics: Distributions
+
+- Explored the shape of data and its impact on analysis and ML model selection.
+- Practiced identifying skewness and detecting outliers using Z-scores.
+- Simulated the Central Limit Theorem, observing how sample means form a bell curve even from messy, skewed data.
+- Understood how these concepts help in statistical inference and improve data-driven decision-making.
+
+
+---
+
 # 🛠 Technologies Used
 
 - Python  
@@ -198,3 +208,4 @@ It strengthened analytical thinking, problem-solving ability, and readiness for 
 Thrisha
 
 📅 February 2026
+
