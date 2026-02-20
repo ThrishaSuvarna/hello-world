@@ -173,6 +173,13 @@ This strengthened statistical thinking required for machine learning and predict
 
 ---
 
+## 📍 Day 16 – SQL for Data Science
+
+This project demonstrates the creation of a local SQLite database named `internship.db` to manage an internship cohort. A table called `interns` was created with columns for id, name, track, and stipend, and five sample records were inserted. SQL queries were executed to retrieve specific data, focusing on selecting only required columns instead of using `SELECT *`. This task strengthened my understanding of database creation, table design, data insertion, and writing efficient, professional SQL queries
+
+
+---
+
 # 🛠 Technologies Used
 
 - Python  
@@ -208,4 +215,5 @@ It strengthened analytical thinking, problem-solving ability, and readiness for 
 Thrisha
 
 📅 February 2026
+
 
